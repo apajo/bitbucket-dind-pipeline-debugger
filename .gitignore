@@ -1,0 +1,4 @@
+secrets.env
+work/
+.cache/
+*.tar

@@ -1,0 +1,3 @@
+FROM docker.io/atlassian/default-image@sha256:71960b111dfa043daa26d7c794b70b40385371edea552e94b3ab05b0a5999796
+WORKDIR /myLocalRepo
+COPY ./myLocalRepo /myLocalRepo
